@@ -1,0 +1,7 @@
+[color]
+	ui = true
+[user]
+	name = Rupali Singhal
+	email = rsinghal@seas.upenn.edu
+[push]
+	default = simple
